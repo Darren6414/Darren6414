@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Darren6414/Darren6414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,20 +20,22 @@ Here are some ideas to get you started:
 
 ---
 
-## 📌 🔥 Quelques Projets Intéressants
-
-🔹 [📈 **Prédiction des prix des actions avec LSTMs**](https://github.com/ton-profil/projet-lstm)  
-🔹 [🤖 **Backtesting d'une stratégie de trading RL**](https://github.com/ton-profil/projet-rl-trading)  
-🔹 [🔍 **Détection d’anomalies financières**](https://github.com/ton-profil/projet-fraude)
+## 📌 🔥 Some interesting projects
+🔹 [📈 **Delivery network optimization project in Python**](https://github.com/Darren6414/projet_prog23) 
+        • Collaborative project on GitHub aimed at optimizing a delivery network under budget constraints(knapsack problem)
+        • Use of Python to implement algorithms such as Kruskal and Dijkstra, with oriented tree manipulation
+🔹 [🤖 **Project on stock market volatility**](https://github.com/Darren6414/Volatility-Project)  
+        • Subject: Analysis of stock price prediction and volatility, with the standard moving average, the exponential moving average, and the GARCH
+          (Generalized Autoregressive Conditional Heteroskedasticity) model
 
 ---
 
-## 🚀 🔧 Technologies & Outils 
+## 🚀 🔧 Tools
 - 💻 **Langages** : Python
 
 ---
 
-## 🌐 🔗 Où me trouver ?
-📩 **Email** : [email@example.com](mailto:email@example.com)  
-💼 **LinkedIn** : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)  
+## 🌐 🔗 How to reach me ?
+📩 **Email** : [email@example.com](ireni.tonin@ensae.fr)  
+💼 **LinkedIn** : [linkedin.com/in/tonprofil](www.linkedin.com/in/darren-tonin-3601a8198)  
   
