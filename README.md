@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hello, my name is TONIN Darren ! 
+
+💡 **Bachelor degree in Mathematics at Paris-Saclay University | Engineer student at ENSAE Paris**  
+📊 Interested in quantitative finance and artificial intelligence especially machine learning and deep learning.
+
+---
+
+## 📌 🔥 Quelques Projets Intéressants
+
+🔹 [📈 **Prédiction des prix des actions avec LSTMs**](https://github.com/ton-profil/projet-lstm)  
+🔹 [🤖 **Backtesting d'une stratégie de trading RL**](https://github.com/ton-profil/projet-rl-trading)  
+🔹 [🔍 **Détection d’anomalies financières**](https://github.com/ton-profil/projet-fraude)
+
+---
+
+## 🚀 🔧 Technologies & Outils 
+- 💻 **Langages** : Python
+
+---
+
+## 🌐 🔗 Où me trouver ?
+📩 **Email** : [email@example.com](mailto:email@example.com)  
+💼 **LinkedIn** : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)  
+  
