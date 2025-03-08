@@ -17,5 +17,5 @@
 
 ## How to reach me ?
 
- - 📩 Email : [email@example.com](ireni.tonin@ensae.fr)
- - 💼 LinkedIn : [linkedin.com/in/tonprofil](www.linkedin.com/in/darren-tonin-3601a8198)
+ - 📩 Email : [ireni.tonin@ensae.fr](ireni.tonin@ensae.fr)
+ - 💼 LinkedIn : [tonindarren](www.linkedin.com/in/darren-tonin-3601a8198)
